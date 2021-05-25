@@ -1,2 +1,24 @@
 # Spring_Boot
-Projeto Crud java spring boot 
+Iniciando um projeto simples usando spring boot e suas principais classes para realizar um CRUD completo.
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+
+### 👨🏻‍💻 &nbsp;Tecnologias Utilizadas
+
+- Java 8
+
+- Spring Boot
+
+- Spring MVC
+
+- Spring Data JPA
+
+- Hibernate
+
+- Banco de dados My Sql
+
+- Thymeleaf 
+
+- Bootstrap 
+
+
