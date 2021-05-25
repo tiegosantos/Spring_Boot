@@ -23,4 +23,4 @@ Iniciando um projeto simples usando spring boot e suas principais classes para r
 - Bootstrap 
 
 
-![Screenshot](01.jpg)
+![Screenshot](01.png)
