@@ -1,5 +1,6 @@
 linguist-documentation, 
 linguist-language, 
+*.js linguist-language=java,
 linguist-vendored, 
 linguist-generated,
 linguist-detectable
